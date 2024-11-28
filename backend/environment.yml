@@ -1,0 +1,7 @@
+name: android
+channels:
+  - defaults
+dependencies:
+  - python==3.10.15
+  - ipykernel
+prefix: D:\software\miniconda\envs\android
