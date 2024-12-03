@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">1155229161_Assignment2</string>
+    <string name="chat">Default Chatroom</string>
+    <string name="button2">Back</string>
+    <string name="message1">Hello, you looks so nice, can i have your wechat?</string>
+    <string name="message2">Of course, my wechat is lizhinanhahaha?</string>
+    <string name="message3">nice to meet you!</string>
+    <string name="message4">emoji!</string>
+    <string name="title_activity_chat1">ChatActivity1</string>
+    <string name="title_activity_chat2">ChatActivity2</string>
+</resources>
